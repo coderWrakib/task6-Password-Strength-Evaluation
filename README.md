@@ -1,4 +1,3 @@
-# task6-Password-Strength-Evaluation
 # Task 6 – Password Strength Evaluation
 
 ## Objective
@@ -12,5 +11,5 @@ Evaluate password strength using sample passwords and a password strength checke
 
 ## Files
 - `report/Task6_Password_Report.docx`
-- `Task6_passwords.txt`
+- `passwords.txt`
 - `screenshots/` (all test screenshots)
